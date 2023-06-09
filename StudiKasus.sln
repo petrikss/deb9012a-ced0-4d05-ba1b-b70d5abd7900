@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "FrTugas1", "Program Penjualan Barang\FrTugas1.vbproj", "{2A1763DF-097C-428E-997D-E79203538699}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup Installer", "Setup Installer\Setup Installer.vdproj", "{1FF4BA76-F11E-491B-BBD4-25DA17C5C729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A1763DF-097C-428E-997D-E79203538699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1763DF-097C-428E-997D-E79203538699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1763DF-097C-428E-997D-E79203538699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1763DF-097C-428E-997D-E79203538699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF4BA76-F11E-491B-BBD4-25DA17C5C729}.Debug|Any CPU.ActiveCfg = Debug
+		{1FF4BA76-F11E-491B-BBD4-25DA17C5C729}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F7DDB5-F637-4C69-A61B-20FE1D9FF493}
+	EndGlobalSection
+EndGlobal
